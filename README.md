@@ -1,4 +1,4 @@
-# Covid_19-analysis. 
+# Covid_19-analysis 📉 
 > Welcome viewers 🙂
 
 This is basically a Data analysis project based on covid_19 situation. It is a very basic data analysis project. The analysis is done using Pandas library and visualization is done using seaborn.
