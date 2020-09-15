@@ -1,4 +1,4 @@
-# Covid_19-analysis 📉 
+# Covid_19-analysis 😷 🩺 📝
 > Welcome viewers 🙂
 
 This is basically a Data analysis project based on covid_19 situation. It is a very basic data analysis project. The analysis is done using Pandas library and visualization is done using seaborn.
@@ -46,7 +46,7 @@ c:\users\name\> jupyter notebook
     yadavyash0904@gmail.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
 - Related projects:
-  - My other project: https://github.com/Thunderbolt9/Student-Management-system
+  - My other project: https://github.com/Thunderbolt9?tab=repositories
   
 ## Licensing ⚖️ 
 
